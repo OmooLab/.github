@@ -1,4 +1,4 @@
-![cover](https://github.com/OmooLab/Handbook/raw/main/contents/branding/Cover.zh.png)
+![cover](https://github.com/OmooLab/Handbook/raw/main/contents/branding/Cover.png)
 
 **Omoo Lab** is a visual studio at the intersection of life sciences and design. With over a decade of experience and patented technologies, we turn complex science into compelling visuals.
 
